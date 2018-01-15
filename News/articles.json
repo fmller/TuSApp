@@ -1,23 +1,60 @@
 {
   "articles": [
     {
-      
+      "title":"",
+      "description":"",
+      "text":"",
+      "author":"",
+      "published":"",
+      "image":""
     },
     {
-      
+      "title":"",
+      "description":"",
+      "text":"",
+      "author":"",
+      "published":"",
+      "image":"",
+      "ad":true
     },
     {
-      
+      "title":"",
+      "description":"",
+      "text":"",
+      "author":"",
+      "published":"",
+      "image":""
     },
     {
-      
+      "title":"",
+      "description":"",
+      "text":"",
+      "author":"",
+      "published":"",
+      "image":"",
+      "ad":true
     },
     {
-      
+      "title":"",
+      "description":"",
+      "text":"",
+      "author":"",
+      "published":"",
+      "image":""
     },
     {
-      
+      "title":"",
+      "description":"",
+      "text":"",
+      "author":"",
+      "published":"",
+      "image":"",
+      "ad":true
     }
-    ]
+    ],
+    "ads": [
+      {},
+      {}
+      ]
 
 }

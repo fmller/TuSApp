@@ -1,22 +1,106 @@
 {
   "games": [
     {
-      
+      "league":"",
+      "matchday":"",
+      "home":"",
+      "away":"",
+      "homeGoal":"",
+      "awayGoal":"",
+      "date":"",
+      "time":"",
+      "actions": [
+        { "home":true, "minute":"", "actionType":"", "person":""},
+        { "home":false, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""}
+        ]
     },
     {
-      
+      "league":"",
+      "matchday":"",
+      "home":"",
+      "away":"",
+      "homeGoal":"",
+      "awayGoal":"",
+      "date":"",
+      "time":"",
+      "actions": [
+        { "home":true, "minute":"", "actionType":"", "person":""},
+        { "home":false, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""}
+        ]
     },
     {
-      
+      "league":"",
+      "matchday":"",
+      "home":"",
+      "away":"",
+      "homeGoal":"",
+      "awayGoal":"",
+      "date":"",
+      "time":"",
+      "actions": [
+        { "home":true, "minute":"", "actionType":"", "person":""},
+        { "home":false, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""}
+        ]
     },
     {
-      
+      "league":"",
+      "matchday":"",
+      "home":"",
+      "away":"",
+      "homeGoal":"",
+      "awayGoal":"",
+      "date":"",
+      "time":"",
+      "actions": [
+        { "home":true, "minute":"", "actionType":"", "person":""},
+        { "home":false, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""}
+        ]
     },
     {
-      
+      "league":"",
+      "matchday":"",
+      "home":"",
+      "away":"",
+      "homeGoal":"",
+      "awayGoal":"",
+      "date":"",
+      "time":"",
+      "actions": [
+        { "home":true, "minute":"", "actionType":"", "person":""},
+        { "home":false, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""}
+        ]
     },
     {
-      
+      "league":"",
+      "matchday":"",
+      "home":"",
+      "away":"",
+      "homeGoal":"",
+      "awayGoal":"",
+      "date":"",
+      "time":"",
+      "actions": [
+        { "home":true, "minute":"", "actionType":"", "person":""},
+        { "home":false, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""},
+        {  "home":true, "minute":"", "actionType":"", "person":""}
+        ]
     }
     ]
 
