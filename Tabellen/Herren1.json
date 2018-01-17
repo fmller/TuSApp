@@ -1,1 +1,19 @@
-{"teams":[{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""},{"place":"","name":"","games":"","points":"","goalratio":""}]}
+{"teams":[
+	{"place":"01","name":"","games":"","points":"","goalratio":""},
+	{"place":"02","name":"","games":"","points":"","goalratio":""},
+	{"place":"03","name":"","games":"","points":"","goalratio":""},
+	{"place":"04","name":"","games":"","points":"","goalratio":""},
+	{"place":"05","name":"","games":"","points":"","goalratio":""},
+	{"place":"06","name":"","games":"","points":"","goalratio":""},
+	{"place":"07","name":"","games":"","points":"","goalratio":""},
+	{"place":"08","name":"","games":"","points":"","goalratio":""},
+	{"place":"09","name":"","games":"","points":"","goalratio":""},
+	{"place":"10","name":"","games":"","points":"","goalratio":""},
+	{"place":"11","name":"","games":"","points":"","goalratio":""},
+	{"place":"12","name":"","games":"","points":"","goalratio":""},
+	{"place":"13","name":"","games":"","points":"","goalratio":""},
+	{"place":"14","name":"","games":"","points":"","goalratio":""},
+	{"place":"15","name":"","games":"","points":"","goalratio":""},
+	{"place":"16","name":"","games":"","points":"","goalratio":""}
+	]
+}
